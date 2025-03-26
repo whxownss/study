@@ -3,7 +3,8 @@
 ## :pencil2: Computer Science
 <details>
 <summary>자료구조</summary>
-
+  
+- [테스트](https://github.com/whxownss/study/blob/bca82bdb17c32b9fc2c8655ffd7729ab4e6abbec/Computer%20Science/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/test.md)
 </details>
 
 <details>
