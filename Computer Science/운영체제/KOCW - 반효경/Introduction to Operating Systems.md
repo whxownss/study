@@ -1,0 +1,28 @@
+## 운영체제란 무엇인가?
+<img src="https://github.com/user-attachments/assets/3f3ad00e-d670-4577-88a1-bfd57eb17e8a" width="800" height="500"/>
+
+## 운영체제의 목적
+<img src="https://github.com/user-attachments/assets/d11dbd6c-dc25-4978-8cd1-916cf1a8725e" width="800" height="500"/>
+<img src="https://github.com/user-attachments/assets/56e8014e-1856-462a-bfa7-2ae43ba23bc7" width="800" height="500"/>
+
+## 운영체제의 분류
+**동시 작업 가능 여부**  
+<img src="https://github.com/user-attachments/assets/3eb86edd-34ef-4bc3-9ff3-8a8d9f5a951c" width="800" height="500"/>
+
+**사용자의 수**  
+<img src="https://github.com/user-attachments/assets/92da0219-c07a-4ce0-b344-7bb1042f6e17" width="800" height="500"/>
+
+**처리 방식**  
+<img src="https://github.com/user-attachments/assets/508dc1bb-ec77-4e63-afe4-c6e74588f7a8" width="800" height="500"/>
+<img src="https://github.com/user-attachments/assets/5b17dadc-a545-401f-8e31-4db93e9fceab" width="800" height="500"/>
+<img src="https://github.com/user-attachments/assets/705eccf3-f661-4a20-8a5d-fcbbe2170099" width="800" height="500"/>
+
+## 몇 가지 용어
+<img src="https://github.com/user-attachments/assets/77f98bba-69e1-4cb8-8c68-b722a78a5a74" width="800" height="500"/>
+
+## 운영체제의 예
+<img src="https://github.com/user-attachments/assets/31d1f71a-6bda-4daa-ba95-5800af4893d3" width="800" height="500"/>
+<img src="https://github.com/user-attachments/assets/ff9545f2-49d7-4842-96fd-0759f1f0a41a" width="800" height="500"/>
+
+## 운영체제의 구조
+<img src="https://github.com/user-attachments/assets/b52b749e-808d-4d15-a729-6b97d0736bab" width="800" height="500"/>
