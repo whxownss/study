@@ -10,22 +10,26 @@
 <details>
 <summary>운영체제</summary>
 
+- [KOCW - 반효경](https://github.com/whxownss/study/tree/main/Computer%20Science/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/KOCW%20-%20%EB%B0%98%ED%9A%A8%EA%B2%BD)
 </details>
 
 <details>
 <summary>네트워크</summary>
 
+- [컴퓨터 네트워킹 하향식 접근](https://github.com/whxownss/study/tree/main/Computer%20Science/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%82%B9%20%ED%95%98%ED%96%A5%EC%8B%9D%20%EC%A0%91%EA%B7%BC)
 </details>
 
 <details>
 <summary>데이터베이스</summary>
 
+- [데이터베이스 시스템](https://github.com/whxownss/study/tree/main/Computer%20Science/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20(%EB%8F%9B%EB%8B%A8%EB%B0%B0%EC%B1%85))
 </details>
 
 ## :pencil2: Programming Language
 <details>
 <summary>자바</summary>
 
+- [Java의 정석](https://github.com/whxownss/study/tree/main/Programming%20Language/%EC%9E%90%EB%B0%94/Java%EC%9D%98%20%EC%A0%95%EC%84%9D)
 </details>
 
 ## :pencil2: Kim's Roadmap
